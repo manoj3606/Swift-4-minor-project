@@ -1,0 +1,5 @@
+import Foundation
+
+var firstProgram = "Hello Wold"
+
+print(firstProgram)
